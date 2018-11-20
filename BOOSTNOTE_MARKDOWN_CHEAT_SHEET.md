@@ -1,7 +1,7 @@
 # 📋 📘 Boostnote Markdown CheatSheet
 
-The missing one page markdown feature cheat sheet for [Boostnote](https://boostnote.io/).
-:warning: Only works in Boostnote. Open the [Preview Page] to see how it's rendered.
+The missing one page markdown feature cheat sheet for [Boostnote](https://boostnote.io/).  
+:warning: Only works in Boostnote. Open the [Preview Page](README.md) to see how it's rendered.
 
 <!-- toc -->
 
