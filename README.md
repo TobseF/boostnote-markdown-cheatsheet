@@ -198,48 +198,46 @@ Horizontal lines have various ways of writing.
 
 ### Admonition
 
-![2018-11-20_22h56_34.png](attachments\admonition.png)
+![admonition](attachments/admonition.png?raw=true)
 
 ## Image
 
-![2018-11-20_22h58_59.png](attachments\images.png)
+![images](attachments/images.png?raw=true)
 
 [logo]: https://boostnote.io/assets/img/logo.png "Boostnote Logo"
 
 ## Latex
 
-![2018-11-20_22h58_59.png](attachments\latex.png)
+![latex](.\attachments/latex.png?raw=true)
 
 ## Diagram Integrations
 
 ### Flowchart
 
-![2018-11-20_22h56_34.png](attachments\flowchart.png)
+![flowchart](attachments/flowchart.png?raw=true)
 
 ### Sequence
 
-![2018-11-20_22h56_47.png](attachments\sequence.png)
+![sequence](attachments/sequence.png?raw=true)
 
 ### [mermaid](https://mermaidjs.github.io/)
 
-![2018-11-20_22h56_56.png](attachments\mermaid.png)
+![mermaid](attachments/mermaid.png?raw=true)
 
 
 ### Chart
 
-![2018-11-20_22h58_01.png](attachments\chart.png)
-
-
+![chart](attachments/chart.png?raw=true)
 
 ### [Ditaa](http://ditaa.sourceforge.net/)
 
-![2018-11-20_22h58_12.png](attachments\ditaa_1.png)
+![ditaa 1](attachments/ditaa_1.png?raw=true)
 
-![2018-11-20_22h58_23.png](attachments\ditaa_2.png)
+![ditaa 2](attachments/ditaa_2.png?raw=true)
 
 
 ### [Plant UML](http://plantuml.com/)
 
-![2018-11-20_23h18_53.png](attachments\plantuml_1.png)
+![plantuml 1](attachments/plantuml_1.png?raw=true)
 
-![2018-11-20_23h19_02.png](attachments\plantuml_2.png)
+![plantuml 2](attachments/plantuml_2.png?raw=true)
