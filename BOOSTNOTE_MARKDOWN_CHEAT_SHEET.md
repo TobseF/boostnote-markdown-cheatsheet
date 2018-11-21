@@ -66,8 +66,10 @@ H~2~0
 29^th^
 
 ### Link
-[Boostnote](https://boostnote.io)
-[Go to line 200](:line:200)
+`Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad
+`Named link`:   [Boostnote](https://boostnote.io)
+`Auto linking`: - google.com
+`Jump to line`: [Go to line 200](:line:200)
 
 ### Check box
 - [x] Task 1
@@ -217,6 +219,10 @@ Lorem ipsum
 !!!
 
 !!! attention Attention
+Lorem ipsum
+!!!
+
+!!! danger Danger
 Lorem ipsum
 !!!
 

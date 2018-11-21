@@ -64,7 +64,10 @@ It tries to give a short summery of all formatting options which are available i
 ![mermaid](attachments/superscript.png?raw=true)
 
 ### Link
-[Boostnote](https://boostnote.io)
+`Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad
+`Named link`:   [Boostnote](https://boostnote.io)
+`Auto linking`: [google.com](https://google.com)
+`Jump to line`: [Go to line 200](:line:200)
 
 ### Check box
 - [x] Task 1
