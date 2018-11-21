@@ -80,14 +80,8 @@ H~2~0
 > Quotation Quotation
 
 ### Footnotes
-Here is a footnote reference, <a name="myFootNote">1</a>
-and another. <a name="anotherFootNote">2</a>
-
-[^1]: Here is the footnote.
-[^longnote]: Here's one with multiple blocks.
-
-    Subsequent paragraphs are indented to show that they
-belong to the previous footnote.
+Here is a footnote reference, <sup>[1](#myFootNote)</sup>
+and another <sup>[2](#anotherFootNote)</sup>.
 
 ### Html
 <span style="color:green">Green Text</span>
@@ -249,7 +243,7 @@ Horizontal lines have various ways of writing.
 
 ---
 
-<sup>[1](#myFootNote)</sup>: Here is the footnote. ↩︎
+: Here is the footnote. ↩︎
 
-<sup>[1](#anotherFootNote)</sup>: Here’s one with multiple blocks.
-Subsequent paragraphs are indented to show that they belong to the previous footnote.
+<a name="myFootNote">1</a>: Here’s one with multiple blocks.
+<a name="anotherFootNote">2</a>: Subsequent paragraphs are indented to show that they belong to the previous footnote.
