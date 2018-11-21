@@ -66,9 +66,9 @@ H~2~0
 29^th^
 
 ### Link
-`Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad
-`Named link`:   [Boostnote](https://boostnote.io)
-`Auto linking`: - google.com
+`Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad  
+`Named link`:   [Boostnote](https://boostnote.io)  
+`Auto linking`: - google.com  
 `Jump to line`: [Go to line 200](:line:200)
 
 ### Check box
