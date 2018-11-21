@@ -2,7 +2,7 @@
 
 
 The missing one page markdown feature cheat sheet for [Boostnote](https://boostnote.io/).
-It's tries to give a short summery of all formatting options which are available in Boostnote.
+It tries to give a short summery of all formatting options which are available in Boostnote.
 
 ---
 :warning: This is the **Preview Page** to see how it's rendered.
