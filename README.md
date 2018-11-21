@@ -64,12 +64,10 @@ is maintained by the W3C.
 *[W3C]: World Wide Web Consortium
 
 ### Superscript
-H~2~0
-29^th^
+![mermaid](attachments/superscript.png?raw=true)
 
 ### Link
 [Boostnote](https://boostnote.io)
-[Go to line 200](:line:200)
 
 ### Check box
 - [x] Task 1
@@ -96,9 +94,9 @@ Emoji by Unicode:   📚 📝 👀
 [complete emojy list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### Arrows
--->
-<--
-<-->
+⟶
+⟵
+⟷
 
 ### Keystrokes
 ![latex](attachments/keystrokes.png?raw=true)
@@ -243,7 +241,6 @@ Horizontal lines have various ways of writing.
 
 ---
 
-: Here is the footnote. ↩︎
-
 <a name="myFootNote">1</a>: Here’s one with multiple blocks.
+
 <a name="anotherFootNote">2</a>: Subsequent paragraphs are indented to show that they belong to the previous footnote.
