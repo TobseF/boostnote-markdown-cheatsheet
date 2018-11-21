@@ -2,10 +2,14 @@
 
 
 The missing one page markdown feature cheat sheet for [Boostnote](https://boostnote.io/).
+It's tries to give a short summery of all formatting options which are available in Boostnote.
 
+---
 :warning: This is the **Preview Page** to see how it's rendered.
 
 :point_right: Open the [Cheat Sheet](BOOSTNOTE_MARKDOWN_CHEAT_SHEET.md) to see the code.
+
+---
 
 <!-- toc -->
 
@@ -76,7 +80,8 @@ H~2~0
 > Quotation Quotation
 
 ### Footnotes
-Here is a footnote reference,[^1] and another.[^longnote]
+Here is a footnote reference, <a name="myFootNote">1</a>
+and another. <a name="anotherFootNote">2</a>
 
 [^1]: Here is the footnote.
 [^longnote]: Here's one with multiple blocks.
@@ -102,7 +107,7 @@ Emoji by Unicode:   📚 📝 👀
 <-->
 
 ### Keystrokes
-[[Esc]] [[z]]
+![latex](attachments/keystrokes.png?raw=true)
 
 ### Source Code
 
@@ -208,7 +213,7 @@ Horizontal lines have various ways of writing.
 
 ## Latex
 
-![latex](.\attachments/latex.png?raw=true)
+![latex](attachments/latex.png?raw=true)
 
 ## Diagram Integrations
 
@@ -241,3 +246,10 @@ Horizontal lines have various ways of writing.
 ![plantuml 1](attachments/plantuml_1.png?raw=true)
 
 ![plantuml 2](attachments/plantuml_2.png?raw=true)
+
+---
+
+<sup>[1](#myFootNote)</sup>: Here is the footnote. ↩︎
+
+<sup>[1](#anotherFootNote)</sup>: Here’s one with multiple blocks.
+Subsequent paragraphs are indented to show that they belong to the previous footnote.
