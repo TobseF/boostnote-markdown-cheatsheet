@@ -52,10 +52,10 @@ It's tries to give a short summery of all formatting options which are available
 ## Text Formatting
 
 ### Emphasis
-*Italic type*
-**Bold**
-~~Negative~~
-`highlighted`
+*Italic type*  
+**Bold**  
+~~Negative~~  
+`highlighted`  
 
 ### Abbreviation
 ![mermaid](attachments/abbreviation.png?raw=true)
@@ -86,8 +86,8 @@ and another <sup>[2](#anotherFootNote)</sup>.
 > Menu: _Preferences / Interface / Sanitastion / Enable dangerous html tags_
 
 ### Emotiocons
-Emoji by shortcode: :books: :memo: :eyes:
-Emoji by Unicode:   📚 📝 👀
+Emoji by shortcode: :books: :memo: :eyes:  
+Emoji by Unicode:   📚 📝 👀  
 [complete emojy list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### Arrows
