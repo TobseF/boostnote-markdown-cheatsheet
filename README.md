@@ -58,10 +58,7 @@ It's tries to give a short summery of all formatting options which are available
 `highlighted`
 
 ### Abbreviation
-The HTML specification
-is maintained by the W3C.
-*[HTML]: Hyper Text Markup Language
-*[W3C]: World Wide Web Consortium
+![mermaid](attachments/abbreviation.png?raw=true)
 
 ### Superscript
 ![mermaid](attachments/superscript.png?raw=true)
