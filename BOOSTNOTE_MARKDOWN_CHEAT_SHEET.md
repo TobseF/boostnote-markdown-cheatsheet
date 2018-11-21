@@ -4,7 +4,7 @@ The missing one page markdown feature cheat sheet for [Boostnote](https://boostn
 It tries to give a short summery of all formatting options which are available in Boostnote.
 
 ---
-:warning: Only works in Boostnote.
+:warning: Only works in Boostnote.  
 :point_right: Open the [Preview Page](README.md) to see how it's rendered.
 
 ---
