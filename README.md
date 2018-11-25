@@ -86,17 +86,24 @@ and another <sup>[2](#anotherFootNote)</sup>.
 <span style="color:yellow">Yellow Text</span>
 <u>underlined</u>
 > HTML only works if you enable:
-> Menu: _Preferences / Interface / Sanitastion / Enable dangerous html tags_
+> Menu: _Preferences / Interface / Preview / Sanitization / Allow dangerous html tags_
 
-### Emotiocons
+### Emoticons
 Emoji by shortcode: :books: :memo: :eyes:  
 Emoji by Unicode:   📚 📝 👀  
 [complete emojy list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
-### Arrows
-⟶
-⟵
-⟷
+### Smart Arrows
+--> →  
+<-- ←  
+<-> ↔  
+==> ⇒  
+<== ⇐  
+<=> ⇔  
+
+> Smart arrows only work if you enable:  
+> Menu: _Preferences / Interface / Preview / Sanitization / Convert textual arrows to beautiful signs_  
+> ⚠ This will interfere with using HTML comments in your Markdown.
 
 ### Keystrokes
 ![latex](attachments/keystrokes.png?raw=true)
