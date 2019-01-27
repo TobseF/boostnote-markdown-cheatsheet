@@ -34,6 +34,7 @@ It tries to give a short summary of all formatting options which are available i
   * [Horizontal line](#Horizontal-line)
   * [Admonition](#Admonition)
 - [Image](#Image)
+  * [Gallery](#Gallery)
 - [Latex](#Latex)
 - [Diagram Integrations](#Diagram-Integrations)
   * [Flowchart](#Flowchart)
@@ -241,6 +242,16 @@ Lorem ipsum
 `By Reference:` ![Referneced Style][logo]
 
 [logo]: https://boostnote.io/assets/img/logo.png "Boostnote Logo"
+
+### Gallery
+```gallery(42h)
+https://source.unsplash.com/F8mUf0hjf74/1024x600
+https://source.unsplash.com/-StqtXU35cA/1024x600
+https://source.unsplash.com/BLTcKiKXbzU/1024x600
+https://source.unsplash.com/qh1J3d4QzgA/1024x600
+https://source.unsplash.com/rpvhOzyv2jM/1024x600
+```
+> Use `gallery(autoplay=2000)` for 2 seconds image rotation.
 
 ## Latex
 $$[x^n + y^n = z^n]$$

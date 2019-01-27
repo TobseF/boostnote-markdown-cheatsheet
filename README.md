@@ -37,6 +37,7 @@ It tries to give a short summary of all formatting options which are available i
   * [Horizontal line](#Horizontal-line)
   * [Admonition](#Admonition)
 - [Image](#Image)
+  * [Gallery](#Gallery)
 - [Latex](#Latex)
 - [Diagram Integrations](#Diagram-Integrations)
   * [Flowchart](#Flowchart)
@@ -190,6 +191,10 @@ Horizontal lines have various ways of writing.
 ![images](attachments/images.png?raw=true)
 
 [logo]: https://boostnote.io/assets/img/logo.png "Boostnote Logo"
+
+### Gallery
+
+![chart](attachments/gallery.png?raw=true)
 
 ## Latex
 
