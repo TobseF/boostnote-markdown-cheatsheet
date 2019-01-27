@@ -6,6 +6,7 @@ It tries to give a short summary of all formatting options which are available i
 ---
 :warning: Only works in Boostnote.  
 :point_right: Open the [Preview Page](README.md) to see how it's rendered.
+:u5408: [Chinese Version](README_zh_cn.md)
 
 ---
 

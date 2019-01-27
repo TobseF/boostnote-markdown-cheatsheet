@@ -9,6 +9,8 @@ It tries to give a short summary of all formatting options which are available i
 
 :point_right: Open the [Cheat Sheet](BOOSTNOTE_MARKDOWN_CHEAT_SHEET.md) to see the code.
 
+:u5408: [Chinese Version](BOOSTNOTE_MARKDOWN_CHEAT_SHEET_zh_cn.md)
+
 ---
 
 <!-- toc -->
