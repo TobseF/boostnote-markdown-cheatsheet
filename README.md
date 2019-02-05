@@ -68,8 +68,8 @@ It tries to give a short summary of all formatting options which are available i
 
 ### Link
 `Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad  
-`Named link`:   [Boostnote](https://boostnote.io)
-`Tooltip link`: [Hover Me](https://boostnote.io "A cool tooltip")
+`Named link`:   [Boostnote](https://boostnote.io)  
+`Tooltip link`: [Hover Me](https://boostnote.io "A cool tooltip")  
 `Auto linking`: [google.com](https://google.com)  
 `Jump to line`: [Go to line 200](:line:200)
 
