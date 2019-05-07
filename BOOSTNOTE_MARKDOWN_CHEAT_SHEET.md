@@ -75,8 +75,8 @@ H~2~0
 `Jump to line`: [Go to line 200](:line:200)
 
 ### Check box
-- [x] Task 1
-- [ ] Task 2
+`- [x]` Task 1 <br/>
+`- [ ]` Task 2
 
 ### Quotation
 > Quotation
@@ -212,27 +212,27 @@ Horizontal lines have various ways of writing.
 
 ### Admonition
 
-!!! note Note
+!!! note <br/>
+Lorem ipsum <br/>
+!!!
+
+!!! hint <br/> <br/>
+Lorem ipsum <br/>
+!!!
+
+!!! caution <br/>
+Lorem ipsum <br/>
+!!!
+
+!!! error <br/>
 Lorem ipsum
 !!!
 
-!!! hint Hint
+!!! attention <br/>
 Lorem ipsum
 !!!
 
-!!! caution Caution
-Lorem ipsum
-!!!
-
-!!! error Error
-Lorem ipsum
-!!!
-
-!!! attention Attention
-Lorem ipsum
-!!!
-
-!!! danger Danger
+!!! danger <br/>
 Lorem ipsum
 !!!
 
