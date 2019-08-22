@@ -12,9 +12,7 @@ It tries to give a short summary of all formatting options which are available i
 ### :information_source: How to add it to Boostenote
 1. Open the [RAW](https://raw.githubusercontent.com/TobseF/boostnote-markdown-cheatsheet/master/BOOSTNOTE_MARKDOWN_CHEAT_SHEET.md) version of this file. 
 2. Copy it with *crtl* + *a* and *crtl* + *c*
-3. Create an empty _Markdown Note_ in Bosstnote paste it with  
-   *crtl* + *shift* + *v*  
-   (The *shift* is important to skip escaping)
+3. Create an empty _Markdown Note_ in Bosstnote paste it with *crtl* + *v*
 ---
 
 <!-- toc -->
@@ -28,7 +26,7 @@ It tries to give a short summary of all formatting options which are available i
   * [Quotation](#Quotation)
   * [Footnotes](#Footnotes)
   * [Html](#Html)
-  * [Emotiocons](#Emotiocons)
+  * [Emoticons](#Emoticons)
   * [Arrows](#Arrows)
   * [Keystrokes](#Keystrokes)
   * [Source Code](#Source-Code)
@@ -75,10 +73,9 @@ H~2~0
 29^th^
 
 ### Link
-`Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad  
-`Named link`:   [Boostnote](https://boostnote.io)  
-`Tooltip link`: [Hover Me](https://boostnote.io "A cool tooltip")  
-`Auto linking`: - google.com  
+`Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad
+`Named link`:   [Boostnote](https://boostnote.io)
+`Tooltip link`: [Hover Me](https://boostnote.io "A cool tooltip")
 `Jump to line`: [Go to line 200](:line:200)
 
 ### Check box
@@ -108,12 +105,12 @@ belong to the previous footnote.
 ### Emoticons
 Emoji by shortcode: :books: :memo: :eyes:
 Emoji by Unicode:   📚 📝 👀
-[complete emojy list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+[complete emoji list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### Arrows
 --> →  
 <-- ←  
-<-> ↔  
+<--> ↔  
 ==> ⇒  
 <== ⇐  
 <=> ⇔
@@ -131,7 +128,7 @@ Emoji by Unicode:   📚 📝 👀
 Render: function () {
   Return (
     <Div className = “commentBox”>
-      <H1> Comments </ h1>
+      <H1> Comments </H1>
       <CommentList data = {this.state.data} />
       <CommentForm onCommentSubmit = {this.handleCommentSubmit} />
     </Div>
@@ -156,8 +153,7 @@ Term 2
 ~ Definition 2a
 ~ Definition 2b
 Term 3
-~
-
+~ 
 Term 1
 : Definition 1
 Term 2 with \*inline markup\*
@@ -208,7 +204,6 @@ raw Markdown line up prettily. You can also use inline Markdown.
 · Can be used offline <br>
 · Synchronize to dropbox etc. with setting <br>
 * Supports theme colors and numerous fonts<br>
-</details>
 </details>
 
 ### Horizontal line
@@ -283,7 +278,7 @@ cond(no)->sub1(right)->op1
 ### Sequence
 ```sequence
 Title: Here is a title
-A-> B: Normal line
+A -> B: Normal line
 B --> C: Dashed line
 C ->> D: Open arrow
 D -->> A: Dashed open arrow
@@ -370,8 +365,8 @@ participant First order 10
 
 @startuml
 Alice -> "Bob()" : Hello
-"Bob()" -> "This is very\\nlong" as Long
+"Bob()" -> "This is very \n long" as Long
 ' You can also declare:
-' "Bob()" -> Long as "This is very\\nlong"
+' "Bob()" -> Long as "This is very \n long"
 Long --> "Bob()" : ok
 @endum
