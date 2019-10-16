@@ -107,7 +107,7 @@ belong to the previous footnote.
 ### Emoticons
 Emoji by shortcode: :books: :memo: :eyes:
 Emoji by Unicode:   📚 📝 👀
-[complete emojy list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+[complete emoji list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ### Arrows
 --> →  
