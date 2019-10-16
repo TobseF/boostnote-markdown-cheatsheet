@@ -130,7 +130,7 @@ Emoji by Unicode:   📚 📝 👀
 Render: function () {
   Return (
     <Div className = “commentBox”>
-      <H1> Comments </ h1>
+      <H1> Comments </ H1>
       <CommentList data = {this.state.data} />
       <CommentForm onCommentSubmit = {this.handleCommentSubmit} />
     </Div>
@@ -282,7 +282,7 @@ cond(no)->sub1(right)->op1
 ### Sequence
 ```sequence
 Title: Here is a title
-A-> B: Normal line
+A -> B: Normal line
 B --> C: Dashed line
 C ->> D: Open arrow
 D -->> A: Dashed open arrow
@@ -369,8 +369,8 @@ participant First order 10
 
 @startuml
 Alice -> "Bob()" : Hello
-"Bob()" -> "This is very\\nlong" as Long
+"Bob()" -> "This is very \n long" as Long
 ' You can also declare:
-' "Bob()" -> Long as "This is very\\nlong"
+' "Bob()" -> Long as "This is very \n long"
 Long --> "Bob()" : ok
 @endum
