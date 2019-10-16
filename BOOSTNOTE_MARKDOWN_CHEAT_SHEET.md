@@ -207,7 +207,6 @@ raw Markdown line up prettily. You can also use inline Markdown.
 · Synchronize to dropbox etc. with setting <br>
 * Supports theme colors and numerous fonts<br>
 </details>
-</details>
 
 ### Horizontal line
 Horizontal lines have various ways of writing.
