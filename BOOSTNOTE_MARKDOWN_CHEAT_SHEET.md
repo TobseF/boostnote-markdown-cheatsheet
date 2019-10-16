@@ -11,9 +11,9 @@ It tries to give a short summary of all formatting options which are available i
 ---
 ### :information_source: How to add it to Boostenote
 1. Open the [RAW](https://raw.githubusercontent.com/TobseF/boostnote-markdown-cheatsheet/master/BOOSTNOTE_MARKDOWN_CHEAT_SHEET.md) version of this file. 
-2. Copy it with *crtl* + *a* and *crtl* + *c*
+2. Copy it with [[crtl]] + [[a]] and [[crtl]] + [[c]]
 3. Create an empty _Markdown Note_ in Bosstnote paste it with  
-   *crtl* + *shift* + *v*  
+   [[crtl]] + [[shift]] + [[v]]  
    (The *shift* is important to skip escaping)
 ---
 
