@@ -78,7 +78,6 @@ H~2~0
 `Simple link`:  https://en.wikipedia.org/wiki/Microsoft_Notepad  
 `Named link`:   [Boostnote](https://boostnote.io)  
 `Tooltip link`: [Hover Me](https://boostnote.io "A cool tooltip")  
-`Auto linking`: - google.com  
 `Jump to line`: [Go to line 200](:line:200)
 
 ### Check box
