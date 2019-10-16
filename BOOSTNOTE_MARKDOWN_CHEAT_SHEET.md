@@ -28,7 +28,7 @@ It tries to give a short summary of all formatting options which are available i
   * [Quotation](#Quotation)
   * [Footnotes](#Footnotes)
   * [Html](#Html)
-  * [Emotiocons](#Emotiocons)
+  * [Emoticons](#Emoticons)
   * [Arrows](#Arrows)
   * [Keystrokes](#Keystrokes)
   * [Source Code](#Source-Code)
