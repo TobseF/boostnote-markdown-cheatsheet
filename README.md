@@ -111,7 +111,7 @@ Emoji by Unicode:   📚 📝 👀
 <-> ↔  
 ==> ⇒  
 <== ⇐  
-<=> ⇔  
+<==> ⇔  
 
 > Smart arrows only work if you enable:  
 > Menu: _Preferences / Interface / Preview / Sanitization / Convert textual arrows to beautiful signs_  

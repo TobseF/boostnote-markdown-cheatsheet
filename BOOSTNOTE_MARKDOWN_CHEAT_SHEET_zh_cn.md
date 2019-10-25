@@ -110,7 +110,7 @@ Emoji Unicode:   📚 📝 👀
 <-> ↔
 ==> ⇒
 <== ⇐
-<=> ⇔
+<==> ⇔
 
 > 智能箭头只有开启以下设置才会生效:
 > Menu: _Preferences / Interface / Preview / Sanitization / Convert textual arrows to beautiful signs_
