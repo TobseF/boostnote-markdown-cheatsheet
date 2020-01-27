@@ -206,12 +206,12 @@ Render: function () {
 !!!
 
 ## 图像
-`默认:` ![Title](https://boostnote.io/assets/img/logo.png)
-`重置大小:` ![Resized](https://boostnote.io/assets/img/logo.png =50x)
-`拉伸:` ![Streched](https://boostnote.io/assets/img/logo.png =50x20)
+`默认:` ![Title](https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png)
+`重置大小:` ![Resized](https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png =50x)
+`拉伸:` ![Streched](https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png =50x20)
 `引用:` ![Referneced Style][logo]
 
-[logo]: https://boostnote.io/assets/img/logo.png "Boostnote Logo"
+[logo]: https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png "Boostnote Logo"
 
 ## Latex
 $$[x^n + y^n = z^n]$$

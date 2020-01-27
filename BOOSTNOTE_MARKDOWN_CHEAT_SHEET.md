@@ -211,12 +211,12 @@ Lorem ipsum
 !!!
 
 ## Image
-`Default:` ![Title](https://boostnote.io/assets/img/logo.png)
-`Resized:` ![Resized](https://boostnote.io/assets/img/logo.png =50x)
-`Streched:` ![Streched](https://boostnote.io/assets/img/logo.png =50x20)
+`Default:` ![Title](https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png)
+`Resized:` ![Resized](https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png =50x)
+`Streched:` ![Streched](https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png =50x20)
 `By Reference:` ![Referneced Style][logo]
 
-[logo]: https://boostnote.io/assets/img/logo.png "Boostnote Logo"
+[logo]: https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/app.png "Boostnote Logo"
 
 ### Gallery
 ```gallery(42h)

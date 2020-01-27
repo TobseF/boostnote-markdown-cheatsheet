@@ -199,8 +199,6 @@ Horizontal lines have various ways of writing.
 
 ![images](attachments/images.png?raw=true)
 
-[logo]: https://boostnote.io/assets/img/logo.png "Boostnote Logo"
-
 ### Gallery
 
 ![chart](attachments/gallery.png?raw=true)
