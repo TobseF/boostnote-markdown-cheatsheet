@@ -194,15 +194,27 @@ Lorem ipsum
 Lorem ipsum
 !!!
 
+!!! question Question
+Lorem ipsum
+!!!
+
+!!! quote Quote
+Lorem ipsum
+!!!
+
+!!! abstract Abstract
+Lorem ipsum
+!!!
+
+!!! attention Attention
+Lorem ipsum
+!!!
+
 !!! caution Caution
 Lorem ipsum
 !!!
 
 !!! error Error
-Lorem ipsum
-!!!
-
-!!! attention Attention
 Lorem ipsum
 !!!
 
