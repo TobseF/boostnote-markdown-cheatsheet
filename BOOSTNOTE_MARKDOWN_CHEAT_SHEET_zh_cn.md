@@ -326,4 +326,4 @@ Alice -> "Bob()" : Hello
 ' You can also declare:
 ' "Bob()" -> Long as "This is very\\nlong"
 Long --> "Bob()" : ok
-@endum
+@enduml

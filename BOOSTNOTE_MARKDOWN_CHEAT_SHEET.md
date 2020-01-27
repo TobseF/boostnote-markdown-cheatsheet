@@ -79,7 +79,7 @@ Emoji by shortcode: :books: :memo: :eyes:
 Emoji by Unicode:   📚 📝 👀
 [complete emoji list](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
-### Arrows
+### Smart Arrows
 --> →  
 <-- ←  
 <-> ↔  
@@ -246,7 +246,7 @@ $$\frac{d}{dx}\left( \int_{0}^{x} f(u)\,du\right)=f(x).$$
 
 ## Diagram Integrations
 
-### Flowchart
+### [Flowchart](http://flowchart.js.org/)
 ```flowchart
 st=>start: Start:>http://www.google.com[blank]
 e=>end:>http://www.google.com
@@ -259,7 +259,7 @@ cond(yes)->io->e
 cond(no)->sub1(right)->op1
 ```
 
-### Sequence
+### [Sequence](https://bramp.github.io/js-sequence-diagrams/)
 ```sequence
 Title: Here is a title
 A -> B: Normal line
@@ -341,16 +341,69 @@ data:
 @endditaa
 
 ### [Plant UML](http://plantuml.com/)
+
+#### [Class Diagram](https://plantuml.com/class-diagram)
 @startuml
-participant Last order 30
-participant Middle order 20
-participant First order 10
+Object <|-- ArrayList
+Object : + equals()
+ArrayList : - Object[] elementData
+ArrayList : + size()
 @enduml
 
+#### [Activity Diagram](https://plantuml.com/activity-diagram-beta)
+@startuml
+start
+:Hello world;
+:This is on defined on
+several **lines**;
+stop
+@enduml
+
+#### [Sequence Diagram](https://plantuml.com/sequence-diagram)
 @startuml
 Alice -> "Bob()" : Hello
 "Bob()" -> "This is very \n long" as Long
 ' You can also declare:
 ' "Bob()" -> Long as "This is very \n long"
 Long --> "Bob()" : ok
-@endum
+@enduml
+
+#### [MindMap](https://plantuml.com/mindmap-diagram)
+@startmindmap
+* Debian
+** Ubuntu
+*** Linux Mint
+*** Kubuntu
+*** Lubuntu
+*** KDE Neon
+** LMDE
+** SolydXK
+** SteamOS
+** Raspbian with a very long name
+*** <s>Raspmbc</s> => OSMC
+*** <s>Raspyfi</s> => Volumio
+@endmindmap
+
+#### [Work Breakdown Structure](https://plantuml.com/wbs-diagram)
+@startwbs
++ Project
+ + Part One
+  + Task 1.1
+   - LeftTask 1.2
+   + Task 1.3
+  + Part Two
+   + Task 2.1
+   + Task 2.2
+   -_ Task 2.2.1 To the left boxless
+   -_ Task 2.2.2 To the Left boxless
+   +_ Task 2.2.3 To the right boxless
+@endwbs
+
+#### [Gantt Diagram](https://plantuml.com/gantt-diagram)
+@startgantt
+[Prototype design] lasts 10 days
+[Code prototype] lasts 10 days
+[Write tests] lasts 5 days
+[Code prototype] starts at [Prototype design]'s end
+[Write tests] starts at [Code prototype]'s start
+@endgantt
