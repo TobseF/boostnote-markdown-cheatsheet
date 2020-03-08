@@ -243,21 +243,22 @@ Horizontal lines have various ways of writing.
 ### [Plant UML](http://plantuml.com/)
 
 #### [Class Diagram](https://plantuml.com/class-diagram)
+![plantuml 1](attachments/plantuml_class_diagram.png?raw=true)
 
 #### [Activity Diagram](https://plantuml.com/activity-diagram-beta)
-![plantuml 1](attachments/plantuml_activity_diagram.png?raw=true)
+![plantuml 2](attachments/plantuml_activity_diagram.png?raw=true)
 
 #### [Sequence Diagram](https://plantuml.com/sequence-diagram)
-![plantuml 2](attachments/plantuml_sequence_diagram.png?raw=true)
+![plantuml 3](attachments/plantuml_sequence_diagram.png?raw=true)
 
 #### [MindMap](https://plantuml.com/mindmap-diagram)
-![plantuml 2](attachments/plantuml_mindmap.png?raw=true)
+![plantuml 4](attachments/plantuml_mindmap.png?raw=true)
 
 #### [Work Breakdown Structure](https://plantuml.com/wbs-diagram)
-![plantuml 2](attachments/plantuml_work_bbreakdown_structure.png?raw=true)
+![plantuml 5](attachments/plantuml_work_bbreakdown_structure.png?raw=true)
 
 #### [Gantt Diagram](https://plantuml.com/gantt-diagram)
-![plantuml 2](attachments/plantuml_gantt.png?raw=true)
+![plantuml 6](attachments/plantuml_gantt.png?raw=true)
 
 
 
