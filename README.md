@@ -13,7 +13,7 @@ It tries to give a short summary of all formatting options which are available i
 
 ---
 
-### :information_source: How to add it to Boostenote
+### :information_source: How to add it to Boostnote
 1. Open the [RAW](https://raw.githubusercontent.com/TobseF/boostnote-markdown-cheatsheet/master/BOOSTNOTE_MARKDOWN_CHEAT_SHEET.md) version of the cheat sheet. 
 2. Copy it with <kbd>crtl</kbd> + <kbd>a</kbd> and <kbd>crtl</kbd> + <kbd>c</kbd>
 3. Create an empty _Markdown Note_ in Bosstnote paste it with  
